@@ -1,0 +1,20 @@
+#dice{
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: 88px;
+    height: 79px;
+    margin: 1px;
+    padding: auto;
+    border: none;
+    font: normal 16px/1 "Times New Roman", Times, serif;
+    color: rgba(255,255,255,1);
+    text-align: center;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background: #e74c3c;
+    -webkit-box-shadow: 3px 3px 18px 3px rgba(1,12,20,0.91) ;
+    box-shadow: 3px 3px 18px 3px rgba(1,12,20,0.91) ;
+  }
+
